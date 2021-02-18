@@ -8,4 +8,6 @@ This repository is containing:
 * MySQL Database Table
 * Images and 3D models of Weather Station
 
+![Alt text](https://github.com/1BarConnection/WeatherStation/blob/main/Web%20Server/img/weather_station_transparent_v32.png?raw=true "Weather Station")
+
 [![YouTube video](http://i3.ytimg.com/vi/LcF_OxU3--A/hqdefault.jpg)](https://www.youtube.com/watch?v=LcF_OxU3--A)
