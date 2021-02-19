@@ -10,4 +10,4 @@ This repository is containing:
 
 ![Alt text](https://github.com/1BarConnection/WeatherStation/blob/main/Web%20Server/img/weather_station_transparent_v32.png?raw=true "Weather Station")
 
-[![YouTube video](http://i3.ytimg.com/vi/y2K9JBGaCgA/hqdefault.jpg)](https://www.youtube.com/watch?v=y2K9JBGaCgA&feature=youtu.be)
+[![YouTube video](http://i3.ytimg.com/vi/y2K9JBGaCgA/hqdefault.jpg)](https://youtu.be/y2K9JBGaCgA)
